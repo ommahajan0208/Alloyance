@@ -1,0 +1,31 @@
+{
+  "product_name": "Copper Wire",
+  "process_route": "Mining \u2192 Smelting \u2192 Casting \u2192 Transport",
+  "user_inputs": {
+    "energy_source": "Electricity",
+    "transport_mode": "Rail",
+    "transport_distance_km": 407.64,
+    "recycled_content_percent": 74.52,
+    "location": "South America",
+    "functional_unit": "1 kg Copper Wire",
+    "raw_material_type": "Aluminium Scrap",
+    "processing_method": "Conventional"
+  },
+  "ai_predictions": {
+    "gwp_kg_co2_eq": 1082.34,
+    "material_circularity_indicator": 0.51,
+    "water_consumption_m3": 12.23,
+    "end_of_life_recycling_rate_percent": 74.77,
+    "energy_per_material_mj": 2.29,
+    "total_air_emissions_kg": 39.36,
+    "total_water_emissions_kg": 1.48,
+    "circularity_score": 50.66,
+    "potential_gwp_reduction_renewable_percent": 15.0,
+    "potential_mci_improvement_recycling_percent": 10.0
+  },
+  "benchmarks": {
+    "industry_average_gwp": 1200.0,
+    "best_in_class_mci": 0.8,
+    "sector_average_water_m3": 15.0
+  }
+}
